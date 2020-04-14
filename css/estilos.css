@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+  background: #d8e0e4;
+  font-family: 'Roboto', sans-serif;
+  color: #323435;
+}
+
+h1{
+  margin: 89px 385px 40px 375px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 42pt;
+  line-height: 1.5;
+  font-weight: black;
+}
+
+.presentacion{
+  padding:30px 70px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36pt;
+  line-height: 1.5;
+  font-weight: black;
+  background-color: white;
+  width: 694px;
+  height: 600px;
+}
+
+a{
+  font-family: 'Roboto', sans-serif;
+  font-size: 30pt;
+  font-weight: black;
+  text-decoration: none;
+  color: #323435;
+  margin: 0;
+  padding: 0 10px;
+}
+
+.habilidades-title{
+  font-family: 'Roboto', sans-serif;
+  font-size: 48pt;
+  font-weight: black;
+  margin: 30px 130px;
+  padding: 20px 50px;
+  display: block;
+  margin: 50px 500px;
+}
+
+li{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24pt;
+  font-weight: black;
+  margin-bottom: 20px;
+}
+
+.certificados-title{
+  font-family: 'Roboto', sans-serif;
+  font-size: 48pt;
+  font-weight: black;
+  margin: 50px 450px;
+  padding:50px;
+}
+
+.header{
+  width: 1345px;
+  height: 200px;
+  background-color: #8eb5c6;
+  margin-top: 0;
+  margin-left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header ol{
+  display: flex;
+}
+
+.logo{
+  margin-top: 0;
+  padding: 20px 20px;
+  box-sizing: border-box;
+}
+
+.habilidades{
+  background-color: white;
+  margin: 89px 315px 40px 315px;
+  display: flex;
+  justify-content: center;
+  width: 900px;
+  height: 500px;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.certificados{
+  background-color: #e9f2f6;
+}
+
+.certificados-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.diploma{
+  margin: 40px;
+}
+
+ol,ul{
+  list-style: none;
+}
+
+.footer{
+  width: 1345px;
+  height: 150px;
+  background-color: #8eb5c6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 0;
+}
+
+h3{
+  font-size: 18pt;
+}
+
+p{
+  font-size: 14pt;
+}
+
+.contacto{
+  padding-left: 20px;
+}
+
+.agradecimientos{
+  padding-right: 20px;
+}
+
+.correo{
+  margin-bottom: 0;
+}
+
+.diploma{
+  object-fit: cover;
+}
